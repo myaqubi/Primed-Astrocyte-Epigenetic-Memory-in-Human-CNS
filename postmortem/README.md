@@ -62,6 +62,10 @@ Combines the integrated RNA and ATAC representations.
 - Generates the joint multimodal UMAP.
 - Performs clustering using the weighted shared nearest-neighbor (WSNN) graph.
 
+### 7 and 8 `07_donor_demultiplexing.R and 08_vote_labelling.R`
+
+Cell type annotation
+
 ### 7. `07_donor_demultiplexing.R`
 
 Assigns nuclei from each multiplexed sample to their corresponding biological donors.
